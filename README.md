@@ -7,7 +7,7 @@
 
 #### What I'm Up To
 🔧 Studying complex backend architectures and their implementations.  
-📈 Experimenting with microservices, serverless, and distributed systems.  
+📈 Experimenting with microservices, and distributed systems.  
 📚 Deep diving into databases, optimization techniques, and scalability strategies.
 
 #### Let's Build Something Amazing Together! 🚀✨
